@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+#calculadora{
+    text-align: center;
+    border: solid black;
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;   
+    background-color: #d2d2d2;
+
+
+}
+#pantalla{
+    background-color: #f0ffff;
+    border: solid #d2d2d2;
+    height: 50px;
+    border: solid #000000 1px;
+    margin: 3px;
+}
+    
+#teclado {
+    background-color: red;
+    margin: 3px;
+}
+
+#teclado div div{
+    background-color: #d2d2d2;
+    border: solid #000000 1px;
+    position: relative;
+    float: left;
+    width: 25%;
+    height: 60px;
+    box-sizing: border-box;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;  
+} 
