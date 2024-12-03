@@ -40,8 +40,6 @@ h1{
     height: 60px;
     box-sizing: border-box;
     font-size: 25px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    padding-top: 15px;
     font-family: sans-serif;  
 } 
